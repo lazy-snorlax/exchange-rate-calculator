@@ -27,6 +27,10 @@ p {
   color: white;
 }
 
+option {
+  background-color: #555;
+}
+
 .btn {
   color: #fff;
   background: var(--primary-color);
